@@ -20,6 +20,17 @@ The work follows the **CRISP-DM** methodology end-to-end — from business under
 
 ---
 
+## 📓 View the Notebooks
+
+> GitHub occasionally fails to render Jupyter notebooks (a known display glitch). If a notebook doesn't load here, use the **nbviewer** links below — they always work.
+
+| Notebook | Description | Open |
+|----------|-------------|------|
+| **Full Analysis** | Complete pipeline: preprocessing → modeling → evaluation | [![nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-F37626?logo=jupyter&logoColor=white)](https://nbviewer.org/github/mfonsecaoliveira/-Flu-Shot-Learning-Predicting-H1N1-and-Seasonal-Flu-Vaccines/blob/main/Predicting%20H1N1%20and%20Seasonal%20Flu%20Vaccines/Full_analysis.ipynb) |
+| **Model Comparison** | Logistic Regression vs Random Forest (both targets) | [![nbviewer](https://img.shields.io/badge/Open%20in-nbviewer-F37626?logo=jupyter&logoColor=white)](https://nbviewer.org/github/mfonsecaoliveira/-Flu-Shot-Learning-Predicting-H1N1-and-Seasonal-Flu-Vaccines/blob/main/Predicting%20H1N1%20and%20Seasonal%20Flu%20Vaccines/Model_comparison.ipynb) |
+
+---
+
 ## 🎯 Problem & Approach
 
 Influenza vaccination coverage remains low despite vaccine availability. A predictive model that flags individuals unlikely to vaccinate allows health services to direct limited resources where they matter most.
